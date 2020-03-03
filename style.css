@@ -1,0 +1,17 @@
+body{
+    width: 90%;
+    height: 90%;
+    background-color: white;
+    margin-left: 4em;
+    margin-right: 1em;
+}
+html{
+    background-color: #4E0C16; 
+    border-color: #C52D37;
+}
+img{
+    margin-left: 20em;
+    margin-top: 1em;
+    height: 150px;
+    width: 700px;
+}
